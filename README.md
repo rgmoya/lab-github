@@ -67,4 +67,8 @@
                 <li>Instalar telas em janelas e portas para impedir a entrada de mosquitos.</li>
             </p>
             <p>Para mais informações sobre a Dengue, consulte o site do Ministério da Saúde:</p>
-            <a href="https://www.gov.br/saude/pt-br/assuntos/
+            <a href="https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue">Site do Ministério da Saúde</a>
+        </section>
+    </main>
+</body>
+</html>
